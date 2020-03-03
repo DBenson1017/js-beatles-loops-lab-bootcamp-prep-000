@@ -1,4 +1,3 @@
-
 //FOR LOOP 
 
 var music = []; 
@@ -38,6 +37,7 @@ function iLoveTheBeatles(num) {
   do {
     array.push("I love the Beatles!");
     num++;
+        // adds I love the beatels 
   } while (num < 15);
 return array; 
 }
