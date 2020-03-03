@@ -37,8 +37,9 @@ function iLoveTheBeatles(num) {
   do {
     array.push("I love the Beatles!");
     num++;
-        // adds I love the beatels 
+        // adds I love the beatels to the array and increments up 1 
   } while (num < 15);
+        // only does this once, then 15 tiems 
 return array; 
 }
 
